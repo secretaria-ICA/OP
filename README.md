@@ -1,8 +1,8 @@
 Título do Trabalho
 
-#### Aluno: [Nome Sobrenome](https://github.com/link_do_github).
-#### Orientador(/a/es/as): [Nome Sobrenome](https://github.com/link_do_github) e [Nome Sobrenome](https://github.com/link_do_github).
-#### Co-orientador(/a/es/as): [Nome Sobrenome](https://github.com/link_do_github) e [Nome Sobrenome](https://github.com/link_do_github). <!-- caso não aplicável, remover esta linha -->
+#### Aluno: [Renan Canellas Ramsauer](https://github.com/link_do_github).
+#### Orientador(/a/es/as): [Ana Carolina Abreu](https://github.com/link_do_github).
+ <!-- caso não aplicável, remover esta linha -->
 
 ---
 
@@ -14,9 +14,6 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 - [Link para o Trabalho Final](https://github.com/Renan-Canellas/OP/blob/main/Otimiza%C3%A7%C3%A3o%20de%20espa%C3%A7o.pdf). <!-- caso não aplicável, remover esta linha -->
 
-- Trabalhos relacionados: <!-- caso não aplicável, remover estas linhas -->
-    - [Nome do Trabalho 1](https://link_do_trabalho.com).
-    - [Nome do Trabalho 2](https://link_do_trabalho.com).
 
 ---
 
@@ -45,7 +42,7 @@ Donec molestie, ante quis tempus consequat, mauris ante fringilla elit, euismod 
 
 ---
 
-Matrícula: 123.456.789
+Matrícula: 192.190.101
 
 Pontifícia Universidade Católica do Rio de Janeiro
 
