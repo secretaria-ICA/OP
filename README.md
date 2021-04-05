@@ -12,7 +12,7 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 - [Link para o código](https://github.com/link_do_repositorio). <!-- caso não aplicável, remover esta linha -->
 
-- [Link para o Trabalho Final](https://link_da_monografia.com). <!-- caso não aplicável, remover esta linha -->
+- [Link para o Trabalho Final](https://github.com/Renan-Canellas/OP/blob/main/Otimiza%C3%A7%C3%A3o%20de%20espa%C3%A7o.pdf). <!-- caso não aplicável, remover esta linha -->
 
 - Trabalhos relacionados: <!-- caso não aplicável, remover estas linhas -->
     - [Nome do Trabalho 1](https://link_do_trabalho.com).
