@@ -1,8 +1,7 @@
 Otimização de espaço em ambiente corporativo
 
-#### Aluno: [Renan Canellas Ramsauer](https://github.com/link_do_github).
+#### Aluno: [Renan Canellas Ramsauer](https://github.com/Renan-Canellas).
 #### Orientador(/a/es/as): [Ana Carolina Abreu](https://github.com/link_do_github).
- <!-- caso não aplicável, remover esta linha -->
 
 ---
 
