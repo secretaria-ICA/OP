@@ -9,7 +9,7 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 <!-- para os links a seguir, caso os arquivos estejam no mesmo repositório que este README, não há necessidade de incluir o link completo: basta incluir o nome do arquivo, com extensão, que o GitHub completa o link corretamente -->
 
-- [Link para o código](Ocupação_EMPRESAX.xlsx). <!-- caso não aplicável, remover esta linha -->
+- [Link para o código](https://github.com/Renan-Canellas/OP/blob/7f0d1755aa9c97f31a8ad95fb1f9205b40287028/Ocupa%C3%A7%C3%A3o_EMPRESAX.xlsx). <!-- caso não aplicável, remover esta linha -->
 
 - [Link para o Trabalho Final](https://github.com/Renan-Canellas/OP/blob/main/Otimiza%C3%A7%C3%A3o%20de%20espa%C3%A7o.pdf). <!-- caso não aplicável, remover esta linha -->
 
